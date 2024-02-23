@@ -1,0 +1,40 @@
+{
+    "m_trackName": "Track5",
+    "m_trackSeed": 1163416032,
+    "m_trackLayout": "ALAARARRAMAAALRARAMMMMIIIBIA",
+    "m_trackLength": 14897.2353515625,
+    "m_wasTrackCompleted": false,
+    "m_lapTimes": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "m_averageLapTime": NaN,
+    "m_topSpeeds": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "m_averageTopSpeed": NaN,
+    "m_energyPercentageRemaining": 0.0,
+    "m_heightVariations": [
+        0.0,
+        -71.670166015625,
+        -71.670166015625,
+        -71.670166015625,
+        -71.670166015625,
+        71.670166015625,
+        -71.670166015625,
+        -71.670166015625,
+        -71.670166015625,
+        71.670166015625,
+        71.670166015625,
+        71.670166015625,
+        71.670166015625,
+        71.670166015625,
+        -71.670166015625,
+        12.7430419921875,
+        71.670166015625,
+        71.670166015625
+    ]
+}

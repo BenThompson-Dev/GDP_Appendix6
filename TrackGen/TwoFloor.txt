@@ -1,0 +1,10 @@
+{
+    "m_trackName": "TwoFloor",
+    "m_seed": 1896745784,
+    "m_axiomIterations": 2,
+    "m_heightVariationMin": 25.0,
+    "m_heightVariationMax": 400.0,
+    "m_maxHeightChangePerSection": 400.0,
+    "m_isSplineClosed": true,
+    "m_boostPanelChance": 2.0
+}

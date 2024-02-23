@@ -1,0 +1,10 @@
+{
+    "m_trackName": "Cyl8",
+    "m_seed": 1803488554,
+    "m_axiomIterations": 2,
+    "m_heightVariationMin": 25.0,
+    "m_heightVariationMax": 400.0,
+    "m_maxHeightChangePerSection": 400.0,
+    "m_isSplineClosed": true,
+    "m_boostPanelChance": 2.0
+}

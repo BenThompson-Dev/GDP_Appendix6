@@ -1,0 +1,10 @@
+{
+    "m_trackName": "Track12",
+    "m_seed": 2034844187,
+    "m_axiomIterations": 1,
+    "m_heightVariationMin": 12.0,
+    "m_heightVariationMax": 100.0,
+    "m_maxHeightChangePerSection": 50.0,
+    "m_isSplineClosed": true,
+    "m_boostPanelChance": 2.0
+}

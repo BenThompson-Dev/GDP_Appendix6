@@ -1,0 +1,11 @@
+{
+    "m_trackName": "NewTrack3",
+    "m_seed": 1065171993,
+    "m_axiomIterations": 1,
+    "m_heightVariationMin": 50.0,
+    "m_heightVariationMax": 200.0,
+    "m_maxHeightChangePerSection": 50.0,
+    "m_isSplineClosed": true,
+    "m_boostPanelChance": 2.0,
+    "m_ruleset": 1
+}

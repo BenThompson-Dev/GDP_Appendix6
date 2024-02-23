@@ -1,0 +1,40 @@
+{
+    "m_trackName": "Cyl20",
+    "m_trackSeed": 985252737,
+    "m_trackLayout": "AAAALRLAASARAALALARRRRRCIAACAAACBIAACCAAIAACAA",
+    "m_trackLength": 28558.365234375,
+    "m_wasTrackCompleted": false,
+    "m_lapTimes": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "m_averageLapTime": NaN,
+    "m_topSpeeds": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "m_averageTopSpeed": NaN,
+    "m_energyPercentageRemaining": 100.0,
+    "m_heightVariations": [
+        0.0,
+        17.27216148376465,
+        16.268186569213868,
+        43.33271026611328,
+        14.759878158569336,
+        33.187294006347659,
+        23.50832748413086,
+        42.19005584716797,
+        23.38581085205078,
+        50.992584228515628,
+        63.59465789794922,
+        45.13096618652344,
+        18.306922912597658,
+        -0.15705108642578126,
+        10.137714385986329,
+        1.7227973937988282,
+        -41.89237594604492,
+        1.7642250061035157
+    ]
+}
